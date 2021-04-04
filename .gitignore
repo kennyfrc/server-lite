@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Except these folders and files in folders
+!lib/
+!lib/*
+
+# Except these files
+!.gitignore
+!foo.rb
+!foo.txt
+!README.md
+!server_lite.sh

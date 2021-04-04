@@ -35,3 +35,8 @@ Execute a file
 ```
 sh server_lite.sh 'http://127.0.0.1:9000/foo.rb'
 ```
+
+
+### Credits
+
+[destroyallsoftware.com](https://www.destroyallsoftware.com/)
